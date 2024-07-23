@@ -1,6 +1,7 @@
 package com.learn;
 
 public class Armstrong {
+	
 public static void main(String[] args) {
 	for(int k=100;k<=1000;k++) {
 	int a=k,n=0;
